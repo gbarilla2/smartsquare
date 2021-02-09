@@ -1,0 +1,1 @@
+from .smartsquare import smartsquare
