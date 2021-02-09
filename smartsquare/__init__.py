@@ -1,1 +1,1 @@
-from .smartsquare import smartsquare
+from .smartsquare import core
